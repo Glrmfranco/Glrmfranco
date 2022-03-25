@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning Python and C#
+- 🌱 I’m currently learning HTML, CSS and JS
 - 🤔 I’m looking for help with .NET 🤣
 
 <div align="center">

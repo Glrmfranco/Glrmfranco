@@ -1,11 +1,4 @@
-# Hi👋
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning HTML, CSS and JS
-- 🤔 I’m looking for help with .NET 🤣
-
+## Hi👋
 <div align="center">
   <a href="https://github.com/Glrmfranco">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Glrmfranco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

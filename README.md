@@ -9,7 +9,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://avatarfiles.alphacoders.com/261/thumb-1920-261915.jpg">
+  <img align="right" alt="pic" height="150" style="border-radius: 20%;" src="https://avatarfiles.alphacoders.com/261/thumb-1920-261915.jpg">
 </div> 
   
   ##

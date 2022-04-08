@@ -1,7 +1,7 @@
 ## Hello !!
 <div align="center">
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=Glrmfranco&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glrmfranco&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Glrmfranco&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glrmfranco&layout=compact&langs_count=7"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
